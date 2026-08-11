@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.11.2](https://github.com/editorconfig-checker/editorconfig-checker/compare/v3.11.1...v3.11.2) (2026-08-11)
+
+
+### Bug Fixes
+
+* handle `unset` for `end_of_line` and `insert_final_newline` ([#594](https://github.com/editorconfig-checker/editorconfig-checker/issues/594)) ([123ba31](https://github.com/editorconfig-checker/editorconfig-checker/commit/123ba319dcad0e048aaa182db1c6f4e37e13b573)), closes [#580](https://github.com/editorconfig-checker/editorconfig-checker/issues/580)
+
 ## [3.11.1](https://github.com/editorconfig-checker/editorconfig-checker/compare/v3.11.0...v3.11.1) (2026-08-08)
 
 
